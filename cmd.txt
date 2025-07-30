@@ -1,0 +1,1 @@
+yolo task=detect mode=train model=yolov8m.pt data=data/data.yaml epochs=50 imgsz=640 batch=11 device=cpu workers=8 name=train11

@@ -1,0 +1,9 @@
+venv/
+runs/
+__pycache__/
+.DS_Store
+*.log
+*.mp4
+echo "inputs/videos/*.mp4" >> .gitignore
+echo "outputs/**/*.avi" >> .gitignore
+.gitattributes
