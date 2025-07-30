@@ -1,0 +1,8 @@
+train: images/train
+val: images/val
+
+names:
+  0: Asian Hornet
+  1: Bees
+  2: Hornet
+  3: Wasp
